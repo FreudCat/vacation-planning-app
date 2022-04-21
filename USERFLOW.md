@@ -22,6 +22,7 @@
   2. User inputs start and end date for vacation
   3. Information is submitted
   4. Weather information is returned for the location and dates
+  5. User can clear data or save
 
   <br/>
 
