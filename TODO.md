@@ -16,3 +16,5 @@
 
 - [ ] Find weather API, get key
 - [ ] Find location image API, get key
+- [ ] Initiate README
+- [ ] Deploy test page to netlify

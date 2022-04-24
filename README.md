@@ -1,9 +1,9 @@
-<header align="center">
+<div align="center">
 <br />
 
 # Vacation Weather
 
-</header>
+</div>
 
 ## Description
 
