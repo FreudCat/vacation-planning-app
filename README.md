@@ -20,7 +20,7 @@ Perhaps you are being diligent and want to know what to pack for an upcoming vac
 
 ### What global problem is this trying to solve? How will this save us?
 
-Sorry, there is no global issue that this app could possibly solve. This is just a fun, personal project that lets me work with Webpack, APIs, responsive design, and an Express backend. Something to humbly do/learn because I enjoy doing/learning it.
+Sorry, there is no global issue that this app could possibly solve. This is just a fun, personal project that lets me work with Webpack, APIs, responsive design, and an Express backend. Something to humbly do/learn because I enjoy doing/learning it 🎈.
 
 <br />
 
